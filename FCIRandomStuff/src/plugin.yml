@@ -1,0 +1,8 @@
+name: FCIRandomStuff
+version: 1.0
+author: TeamFCI
+
+main: de.teamfci.randomstuff.RandomStuff
+commands:
+  btower:
+    description: BattleTower Main Command
